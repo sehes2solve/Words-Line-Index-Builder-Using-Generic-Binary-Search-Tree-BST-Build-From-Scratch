@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\BSTFCI.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="693" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="src\BSTFCI.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1501" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="12" />
+			<Collapse line="22" />
+			<Collapse line="27" />
+			<Collapse line="41" />
+			<Collapse line="84" />
+			<Collapse line="110" />
+			<Collapse line="120" />
+			<Collapse line="146" />
+			<Collapse line="156" />
+			<Collapse line="162" />
+			<Collapse line="167" />
+			<Collapse line="174" />
+			<Collapse line="198" />
+			<Collapse line="214" />
+			<Collapse line="238" />
+			<Collapse line="261" />
+			<Collapse line="273" />
+			<Collapse line="283" />
+			<Collapse line="289" />
+			<Collapse line="299" />
+			<Collapse line="305" />
+			<Collapse line="315" />
+			<Collapse line="321" />
+			<Collapse line="335" />
+			<Collapse line="342" />
+			<Collapse line="347" />
+		</Folding>
+	</File>
+	<File name="src\Word.cpp" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1137" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="include\Word.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="564" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1501" topLine="68" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

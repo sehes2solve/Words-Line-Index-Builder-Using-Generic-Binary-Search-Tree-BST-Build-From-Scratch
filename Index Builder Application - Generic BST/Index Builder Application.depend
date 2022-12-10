@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1556775208 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application\main.cpp
+	<fstream>
+	<bits/stdc++.h>
+	"include/BSTFCI.h"
+
+1556771512 d:\2nd semister grade 2\data structures\assignment\a4\index builder application\include\bstfci.h
+	<queue>
+	"Word.h"
+
+1556772039 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application\src\bstfci.cpp
+	"../include/BSTFCI.h"
+
+1556775128 d:\2nd semister grade 2\data structures\assignment\a4\index builder application\include\word.h
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+
+1556775191 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application\src\word.cpp
+	"Word.h"
+
+1556775208 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application - generic bst\main.cpp
+	<fstream>
+	<bits/stdc++.h>
+	"include/BSTFCI.h"
+
+1556771512 d:\2nd semister grade 2\data structures\assignment\a4\index builder application - generic bst\include\bstfci.h
+	<queue>
+	"Word.h"
+
+1556775128 d:\2nd semister grade 2\data structures\assignment\a4\index builder application - generic bst\include\word.h
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+
+1556772039 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application - generic bst\src\bstfci.cpp
+	"../include/BSTFCI.h"
+
+1556775191 source:d:\2nd semister grade 2\data structures\assignment\a4\index builder application - generic bst\src\word.cpp
+	"Word.h"
+
